@@ -1,2 +1,12 @@
 .env
 node_modules/
+
+# Android Studio build outputs and user configuration
+android/.gradle/
+android/.idea/
+android/local.properties
+android/**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
